@@ -2,8 +2,8 @@ body, html {
   margin: 0;
   padding: 0;
   height: 100%;
-  color: bisque;
 }
+
 
 #video-container {
   position: fixed;
@@ -53,6 +53,7 @@ h1 {
 
 h2 {
   font-size: 2em;
+  font-weight: bold;
 }
 
 p {
